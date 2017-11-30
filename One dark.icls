@@ -1,9 +1,9 @@
 <scheme name="One dark" version="142" parent_scheme="Darcula">
   <metaInfo>
-    <property name="created">2017-11-30T05:00:28</property>
+    <property name="created">2017-11-30T05:31:24</property>
     <property name="ide">PhpStorm</property>
     <property name="ideVersion">2017.3.0.0</property>
-    <property name="modified">2017-11-30T05:00:31</property>
+    <property name="modified">2017-11-30T05:31:28</property>
     <property name="originalScheme">One dark</property>
   </metaInfo>
   <colors>
@@ -18,7 +18,7 @@
     <option name="MODIFIED_LINES_COLOR" value="d19a66" />
     <option name="RIGHT_MARGIN_COLOR" value="5c6370" />
     <option name="SELECTED_INDENT_GUIDE" value="747369" />
-    <option name="SELECTION_BACKGROUND" value="abb2bf" />
+    <option name="SELECTION_BACKGROUND" value="575c69" />
     <option name="SELECTION_FOREGROUND" value="282c34" />
     <option name="WHITESPACES" value="5c6370" />
   </colors>
@@ -562,9 +562,24 @@
         <option name="FOREGROUND" value="98c476" />
       </value>
     </option>
+    <option name="DEFAULT_COMMA">
+      <value>
+        <option name="FOREGROUND" value="abb2bf" />
+      </value>
+    </option>
     <option name="DEFAULT_FUNCTION_DECLARATION">
       <value>
         <option name="FOREGROUND" value="54b3fa" />
+      </value>
+    </option>
+    <option name="DEFAULT_IDENTIFIER">
+      <value>
+        <option name="FOREGROUND" value="abb2bf" />
+      </value>
+    </option>
+    <option name="DEFAULT_SEMICOLON">
+      <value>
+        <option name="FOREGROUND" value="abb2bf" />
       </value>
     </option>
     <option name="DEFAULT_STRING">
@@ -832,8 +847,8 @@
     </option>
     <option name="HYPERLINK_ATTRIBUTES">
       <value>
-        <option name="FOREGROUND" value="c678dd" />
-        <option name="EFFECT_COLOR" value="c678dd" />
+        <option name="FOREGROUND" value="4d79dd" />
+        <option name="EFFECT_COLOR" value="4d79dd" />
         <option name="EFFECT_TYPE" value="1" />
       </value>
     </option>
@@ -850,7 +865,7 @@
     </option>
     <option name="INFO_ATTRIBUTES">
       <value>
-        <option name="EFFECT_COLOR" value="333434" />
+        <option name="EFFECT_COLOR" value="727373" />
         <option name="ERROR_STRIPE_COLOR" value="ffffcc" />
         <option name="EFFECT_TYPE" value="2" />
       </value>
@@ -958,6 +973,11 @@
         <option name="FOREGROUND" value="5b6370" />
       </value>
     </option>
+    <option name="JS.CLASS">
+      <value>
+        <option name="FOREGROUND" value="f0c678" />
+      </value>
+    </option>
     <option name="JS.COMMA">
       <value />
     </option>
@@ -995,7 +1015,7 @@
     </option>
     <option name="JS.INSTANCE_MEMBER_VARIABLE">
       <value>
-        <option name="FOREGROUND" value="abb2bf" />
+        <option name="FOREGROUND" value="a9b7c6" />
       </value>
     </option>
     <option name="JS.INVALID_STRING_ESCAPE">
@@ -1027,7 +1047,7 @@
     </option>
     <option name="JS.OPERATION_SIGN">
       <value>
-        <option name="FOREGROUND" value="a6b2c0" />
+        <option name="FOREGROUND" value="a9b7c6" />
       </value>
     </option>
     <option name="JS.PARAMETER">
@@ -1343,6 +1363,11 @@
     <option name="PHP_PARAMETER">
       <value>
         <option name="FOREGROUND" value="eb5f55" />
+      </value>
+    </option>
+    <option name="PHP_PREDEFINED SYMBOL">
+      <value>
+        <option name="FOREGROUND" value="56bfcc" />
       </value>
     </option>
     <option name="PHP_SCRIPTING_BACKGROUND">
