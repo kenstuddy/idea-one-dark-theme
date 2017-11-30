@@ -1,9 +1,9 @@
 <scheme name="One dark" version="142" parent_scheme="Darcula">
   <metaInfo>
-    <property name="created">2017-11-30T05:31:24</property>
+    <property name="created">2017-11-30T07:36:59</property>
     <property name="ide">PhpStorm</property>
     <property name="ideVersion">2017.3.0.0</property>
-    <property name="modified">2017-11-30T05:31:28</property>
+    <property name="modified">2017-11-30T07:37:04</property>
     <property name="originalScheme">One dark</property>
   </metaInfo>
   <colors>
@@ -1015,7 +1015,7 @@
     </option>
     <option name="JS.INSTANCE_MEMBER_VARIABLE">
       <value>
-        <option name="FOREGROUND" value="a9b7c6" />
+        <option name="FOREGROUND" value="abb2bf" />
       </value>
     </option>
     <option name="JS.INVALID_STRING_ESCAPE">
@@ -1047,7 +1047,7 @@
     </option>
     <option name="JS.OPERATION_SIGN">
       <value>
-        <option name="FOREGROUND" value="a9b7c6" />
+        <option name="FOREGROUND" value="abb2bf" />
       </value>
     </option>
     <option name="JS.PARAMETER">
