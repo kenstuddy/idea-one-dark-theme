@@ -54,5 +54,5 @@ color themes.
 - [x] XML
 - [ ] Java
 - [ ] Ruby
-- [ ] PHP
+- [x] PHP
 - [ ] UI theme
