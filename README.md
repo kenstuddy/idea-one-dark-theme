@@ -52,7 +52,7 @@ color themes.
 - [x] JSON
 - [x] HTML
 - [x] XML
+- [x] PHP
 - [ ] Java
 - [ ] Ruby
-- [x] PHP
 - [ ] UI theme
