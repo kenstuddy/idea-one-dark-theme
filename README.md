@@ -1,6 +1,6 @@
 # One Dark PyCharm theme
 
-[One Dark](https://github.com/atom/one-dark-syntax) theme for IntelliJ IDEA, PhpStorm, PyCharm, RubyMine, WebStorm
+[One Dark](https://github.com/atom/one-dark-syntax) theme for IntelliJ IDEA, PHPStorm, PyCharm, RubyMine, WebStorm. Tested on 2017.3 PHPStorm.
 
 ![](screenshots/1.png)
 
