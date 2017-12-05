@@ -18,7 +18,7 @@ color themes.
 
 ### Option 2: Manual installation
 
-1.  Copy `One Dark.icls` to your IntelliJ IDEA preferences
+1.  Copy `One dark.icls` to your IntelliJ IDEA preferences
     color directory. The directory varies, depending on which JetBrains IDE you are using. 
 
     *The colors directory may need to be created.*
