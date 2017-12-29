@@ -1,9 +1,9 @@
 <scheme name="One dark" version="142" parent_scheme="Darcula">
   <metaInfo>
-    <property name="created">2017-12-05T10:25:28</property>
-    <property name="ide">idea</property>
-    <property name="ideVersion">2017.3.0.0</property>
-    <property name="modified">2017-12-05T10:25:31</property>
+    <property name="created">2017-12-29T07:20:01</property>
+    <property name="ide">PhpStorm</property>
+    <property name="ideVersion">2017.3.2.0.0</property>
+    <property name="modified">2017-12-29T07:20:04</property>
     <property name="originalScheme">One dark</property>
   </metaInfo>
   <colors>
@@ -23,12 +23,6 @@
     <option name="WHITESPACES" value="5c6370" />
   </colors>
   <attributes>
-    <option name="ANNOTATION_NAME_ATTRIBUTES">
-      <value>
-        <option name="FOREGROUND" value="eb676b" />
-        <option name="EFFECT_TYPE" value="1" />
-      </value>
-    </option>
     <option name="APACHE_CONFIG.ARG_LEXEM">
       <value>
         <option name="FOREGROUND" value="98c379" />
@@ -114,11 +108,6 @@
     <option name="BUILDOUT.VALUE">
       <value>
         <option name="FOREGROUND" value="98c379" />
-      </value>
-    </option>
-    <option name="CLASS_NAME_ATTRIBUTES">
-      <value>
-        <option name="FOREGROUND" value="f0c678" />
       </value>
     </option>
     <option name="CLASS_REFERENCE">
@@ -436,7 +425,7 @@
     </option>
     <option name="CSS.NUMBER">
       <value>
-        <option name="FOREGROUND" value="d2945d" />
+        <option name="FOREGROUND" value="d39a63" />
       </value>
     </option>
     <option name="CSS.OPERATORS">
@@ -598,7 +587,6 @@
         <option name="FOREGROUND" value="98c379" />
       </value>
     </option>
-    <option name="DEFAULT_TEMPLATE_LANGUAGE_COLOR" baseAttributes="TEXT" />
     <option name="DEPRECATED_ATTRIBUTES">
       <value>
         <option name="EFFECT_COLOR" value="c0c0c0" />
@@ -663,11 +651,6 @@
     <option name="DJANGO_TAG_NAME">
       <value>
         <option name="FOREGROUND" value="c676df" />
-      </value>
-    </option>
-    <option name="DOC_COMMENT_TAG_VALUE">
-      <value>
-        <option name="FOREGROUND" value="abb2bf" />
       </value>
     </option>
     <option name="DUPLICATE_FROM_SERVER">
@@ -829,7 +812,7 @@
     </option>
     <option name="HTML_ATTRIBUTE_NAME">
       <value>
-        <option name="FOREGROUND" value="d2945d" />
+        <option name="FOREGROUND" value="d39a63" />
       </value>
     </option>
     <option name="HTML_ATTRIBUTE_VALUE">
@@ -845,7 +828,7 @@
     </option>
     <option name="HTML_ENTITY_REFERENCE">
       <value>
-        <option name="FOREGROUND" value="d2945d" />
+        <option name="FOREGROUND" value="d39a63" />
       </value>
     </option>
     <option name="HTML_TAG">
@@ -877,7 +860,7 @@
     </option>
     <option name="IMPLICIT_ANONYMOUS_CLASS_PARAMETER_ATTRIBUTES">
       <value>
-        <option name="FOREGROUND" value="abb2bf" />
+        <option name="FOREGROUND" value="fda5ff" />
       </value>
     </option>
     <option name="INFO_ATTRIBUTES">
@@ -894,7 +877,7 @@
     </option>
     <option name="INSTANCE_FIELD_ATTRIBUTES">
       <value>
-        <option name="FOREGROUND" value="abb2bf" />
+        <option name="FOREGROUND" value="fda5ff" />
       </value>
     </option>
     <option name="IVAR">
@@ -924,8 +907,8 @@
     </option>
     <option name="JAVA_DOC_TAG">
       <value>
-        <option name="FOREGROUND" value="c679dd" />
         <option name="FONT_TYPE" value="1" />
+        <option name="EFFECT_COLOR" value="80807f" />
         <option name="EFFECT_TYPE" value="1" />
       </value>
     </option>
@@ -1059,7 +1042,7 @@
     </option>
     <option name="JS.NUMBER">
       <value>
-        <option name="FOREGROUND" value="d2945d" />
+        <option name="FOREGROUND" value="d39a63" />
       </value>
     </option>
     <option name="JS.OPERATION_SIGN">
@@ -1183,11 +1166,6 @@
         <option name="FOREGROUND" value="98c379" />
       </value>
     </option>
-    <option name="LOCAL_VARIABLE_ATTRIBUTES">
-      <value>
-        <option name="FOREGROUND" value="abb2bf" />
-      </value>
-    </option>
     <option name="MACRONAME">
       <value>
         <option name="FOREGROUND" value="61afef" />
@@ -1201,11 +1179,6 @@
     <option name="MESSAGE_ARGUMENT">
       <value>
         <option name="FOREGROUND" value="61afef" />
-      </value>
-    </option>
-    <option name="METHOD_CALL_ATTRIBUTES">
-      <value>
-        <option name="FOREGROUND" value="eb676b" />
       </value>
     </option>
     <option name="NOT_USED_ELEMENT_ATTRIBUTES">
@@ -1295,11 +1268,6 @@
         <option name="FOREGROUND" value="98c379" />
       </value>
     </option>
-    <option name="PARAMETER_ATTRIBUTES">
-      <value>
-        <option name="FOREGROUND" value="abb2bf" />
-      </value>
-    </option>
     <option name="PHP_BAD_CHARACTER">
       <value>
         <option name="BACKGROUND" value="6e3b3b" />
@@ -1323,7 +1291,7 @@
     </option>
     <option name="PHP_CONSTANT">
       <value>
-        <option name="FOREGROUND" value="d2945d" />
+        <option name="FOREGROUND" value="d39a63" />
       </value>
     </option>
     <option name="PHP_DOC_COMMENT_ID">
@@ -1384,7 +1352,7 @@
     </option>
     <option name="PHP_NUMBER">
       <value>
-        <option name="FOREGROUND" value="db9d63" />
+        <option name="FOREGROUND" value="d39a63" />
       </value>
     </option>
     <option name="PHP_OPERATION_SIGN">
@@ -1400,6 +1368,11 @@
     <option name="PHP_PREDEFINED SYMBOL">
       <value>
         <option name="FOREGROUND" value="56bfcc" />
+      </value>
+    </option>
+    <option name="PHP_SCRIPTING_BACKGROUND">
+      <value>
+        <option name="BACKGROUND" value="2a2d32" />
       </value>
     </option>
     <option name="PHP_SEMICOLON">
@@ -2062,7 +2035,8 @@
     </option>
     <option name="STATIC_FIELD_ATTRIBUTES">
       <value>
-        <option name="FOREGROUND" value="abb2bf" />
+        <option name="FOREGROUND" value="fda5ff" />
+        <option name="FONT_TYPE" value="3" />
       </value>
     </option>
     <option name="TAG_ATTR_KEY">
@@ -2175,11 +2149,6 @@
         <option name="FOREGROUND" value="c679dd" />
       </value>
     </option>
-    <option name="TYPE_PARAMETER_NAME_ATTRIBUTES">
-      <value>
-        <option name="FOREGROUND" value="f0c678" />
-      </value>
-    </option>
     <option name="UNMATCHED_BRACE_ATTRIBUTES">
       <value>
         <option name="BACKGROUND" value="583535" />
@@ -2222,11 +2191,6 @@
     <option name="XML_ENTITY_REFERENCE">
       <value>
         <option name="FOREGROUND" value="d2945d" />
-      </value>
-    </option>
-    <option name="XML_NS_PREFIX">
-      <value>
-        <option name="FOREGROUND" value="e06c75" />
       </value>
     </option>
     <option name="XML_PROLOGUE">
