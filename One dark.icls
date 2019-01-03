@@ -1,9 +1,9 @@
 <scheme name="One dark" version="142" parent_scheme="Darcula">
   <metaInfo>
-    <property name="created">2018-11-13T21:15:22</property>
-    <property name="ide">PhpStorm</property>
-    <property name="ideVersion">2018.2.5.0.0</property>
-    <property name="modified">2018-11-13T21:15:26</property>
+    <property name="created">2019-01-03T16:57:39</property>
+    <property name="ide">idea</property>
+    <property name="ideVersion">2018.3.2.0.0</property>
+    <property name="modified">2019-01-03T16:58:03</property>
     <property name="originalScheme">One dark</property>
   </metaInfo>
   <colors>
@@ -23,6 +23,16 @@
     <option name="WHITESPACES" value="5c6370" />
   </colors>
   <attributes>
+    <option name="ABSTRACT_CLASS_NAME_ATTRIBUTES">
+      <value>
+        <option name="FOREGROUND" value="f0c678" />
+      </value>
+    </option>
+    <option name="ANONYMOUS_CLASS_NAME_ATTRIBUTES">
+      <value>
+        <option name="FOREGROUND" value="f0c678" />
+      </value>
+    </option>
     <option name="APACHE_CONFIG.ARG_LEXEM">
       <value>
         <option name="FOREGROUND" value="98c379" />
@@ -108,6 +118,11 @@
     <option name="BUILDOUT.VALUE">
       <value>
         <option name="FOREGROUND" value="98c379" />
+      </value>
+    </option>
+    <option name="CLASS_NAME_ATTRIBUTES">
+      <value>
+        <option name="FOREGROUND" value="f0c678" />
       </value>
     </option>
     <option name="CLASS_REFERENCE">
@@ -567,14 +582,47 @@
         <option name="FOREGROUND" value="abb2bf" />
       </value>
     </option>
+    <option name="DEFAULT_DOC_COMMENT">
+      <value>
+        <option name="FOREGROUND" value="60697a" />
+        <option name="FONT_TYPE" value="2" />
+      </value>
+    </option>
+    <option name="DEFAULT_DOC_COMMENT_TAG">
+      <value>
+        <option name="FOREGROUND" value="cd74e8" />
+        <option name="FONT_TYPE" value="3" />
+        <option name="EFFECT_TYPE" value="1" />
+      </value>
+    </option>
+    <option name="DEFAULT_DOC_COMMENT_TAG_VALUE">
+      <value>
+        <option name="FOREGROUND" value="cd74e8" />
+      </value>
+    </option>
+    <option name="DEFAULT_DOC_MARKUP">
+      <value>
+        <option name="FOREGROUND" value="cd74e8" />
+      </value>
+    </option>
     <option name="DEFAULT_FUNCTION_DECLARATION">
       <value>
-        <option name="FOREGROUND" value="54b3fa" />
+        <option name="FOREGROUND" value="5cb3fa" />
+      </value>
+    </option>
+    <option name="DEFAULT_GLOBAL_VARIABLE">
+      <value>
+        <option name="FOREGROUND" value="adb7c9" />
       </value>
     </option>
     <option name="DEFAULT_IDENTIFIER">
       <value>
         <option name="FOREGROUND" value="abb2bf" />
+      </value>
+    </option>
+    <option name="DEFAULT_NUMBER">
+      <value>
+        <option name="FOREGROUND" value="db9d63" />
       </value>
     </option>
     <option name="DEFAULT_SEMICOLON">
@@ -877,7 +925,12 @@
     </option>
     <option name="INSTANCE_FIELD_ATTRIBUTES">
       <value>
-        <option name="FOREGROUND" value="fda5ff" />
+        <option name="FOREGROUND" value="adb7c9" />
+      </value>
+    </option>
+    <option name="INTERFACE_NAME_ATTRIBUTES">
+      <value>
+        <option name="FOREGROUND" value="f0c678" />
       </value>
     </option>
     <option name="IVAR">
@@ -931,7 +984,7 @@
     </option>
     <option name="JAVA_NUMBER">
       <value>
-        <option name="FOREGROUND" value="d2945d" />
+        <option name="FOREGROUND" value="db9d63" />
       </value>
     </option>
     <option name="JAVA_OPERATION_SIGN">
@@ -1181,6 +1234,16 @@
         <option name="FOREGROUND" value="61afef" />
       </value>
     </option>
+    <option name="METHOD_CALL_ATTRIBUTES">
+      <value>
+        <option name="FOREGROUND" value="5cb3fa" />
+      </value>
+    </option>
+    <option name="METHOD_DECLARATION_ATTRIBUTES">
+      <value>
+        <option name="FOREGROUND" value="5cb3fa" />
+      </value>
+    </option>
     <option name="NOT_USED_ELEMENT_ATTRIBUTES">
       <value>
         <option name="FOREGROUND" value="80807f" />
@@ -1268,6 +1331,11 @@
         <option name="FOREGROUND" value="98c379" />
       </value>
     </option>
+    <option name="PARAMETER_ATTRIBUTES">
+      <value>
+        <option name="FOREGROUND" value="eb6772" />
+      </value>
+    </option>
     <option name="PHP_BAD_CHARACTER">
       <value>
         <option name="BACKGROUND" value="6e3b3b" />
@@ -1352,7 +1420,7 @@
     </option>
     <option name="PHP_NUMBER">
       <value>
-        <option name="FOREGROUND" value="d39a63" />
+        <option name="FOREGROUND" value="db9d63" />
       </value>
     </option>
     <option name="PHP_OPERATION_SIGN">
@@ -2035,8 +2103,14 @@
     </option>
     <option name="STATIC_FIELD_ATTRIBUTES">
       <value>
-        <option name="FOREGROUND" value="fda5ff" />
+        <option name="FOREGROUND" value="adb7c9" />
         <option name="FONT_TYPE" value="3" />
+      </value>
+    </option>
+    <option name="STATIC_METHOD_ATTRIBUTES">
+      <value>
+        <option name="FOREGROUND" value="5cb3fa" />
+        <option name="FONT_TYPE" value="2" />
       </value>
     </option>
     <option name="TAG_ATTR_KEY">
@@ -2156,7 +2230,7 @@
     </option>
     <option name="WARNING_ATTRIBUTES">
       <value>
-        <option name="EFFECT_COLOR" value="ffa800" />
+        <option name="EFFECT_COLOR" value="ff7d00" />
         <option name="ERROR_STRIPE_COLOR" value="ebc700" />
         <option name="EFFECT_TYPE" value="2" />
       </value>
