@@ -1,9 +1,9 @@
 <scheme name="One dark" version="142" parent_scheme="Darcula">
   <metaInfo>
-    <property name="created">2019-01-03T16:57:39</property>
-    <property name="ide">idea</property>
-    <property name="ideVersion">2018.3.2.0.0</property>
-    <property name="modified">2019-01-03T16:58:03</property>
+    <property name="created">2019-01-09T20:52:28</property>
+    <property name="ide">PhpStorm</property>
+    <property name="ideVersion">2018.3.3.0.0</property>
+    <property name="modified">2019-01-09T20:52:33</property>
     <property name="originalScheme">One dark</property>
   </metaInfo>
   <colors>
@@ -713,7 +713,8 @@
     </option>
     <option name="ERRORS_ATTRIBUTES">
       <value>
-        <option name="EFFECT_COLOR" value="ff6767" />
+        <option name="FONT_TYPE" value="1" />
+        <option name="EFFECT_COLOR" value="ff001c" />
         <option name="ERROR_STRIPE_COLOR" value="cf5b56" />
         <option name="EFFECT_TYPE" value="2" />
       </value>
@@ -913,8 +914,8 @@
     </option>
     <option name="INFO_ATTRIBUTES">
       <value>
-        <option name="EFFECT_COLOR" value="ffff90" />
-        <option name="ERROR_STRIPE_COLOR" value="ffffcc" />
+        <option name="EFFECT_COLOR" value="ffff0d" />
+        <option name="ERROR_STRIPE_COLOR" value="feff7e" />
         <option name="EFFECT_TYPE" value="2" />
       </value>
     </option>
@@ -2223,6 +2224,12 @@
         <option name="FOREGROUND" value="c679dd" />
       </value>
     </option>
+    <option name="TYPO">
+      <value>
+        <option name="EFFECT_COLOR" value="6d9c" />
+        <option name="EFFECT_TYPE" value="2" />
+      </value>
+    </option>
     <option name="UNMATCHED_BRACE_ATTRIBUTES">
       <value>
         <option name="BACKGROUND" value="583535" />
@@ -2230,7 +2237,7 @@
     </option>
     <option name="WARNING_ATTRIBUTES">
       <value>
-        <option name="EFFECT_COLOR" value="ff7d00" />
+        <option name="EFFECT_COLOR" value="f49a00" />
         <option name="ERROR_STRIPE_COLOR" value="ebc700" />
         <option name="EFFECT_TYPE" value="2" />
       </value>
