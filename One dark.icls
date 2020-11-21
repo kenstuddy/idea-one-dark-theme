@@ -1,9 +1,9 @@
 <scheme name="One dark" version="142" parent_scheme="Darcula">
   <metaInfo>
-    <property name="created">2019-01-09T20:52:28</property>
-    <property name="ide">PhpStorm</property>
-    <property name="ideVersion">2018.3.3.0.0</property>
-    <property name="modified">2019-01-09T20:52:33</property>
+    <property name="created">2020-11-21T00:08:19</property>
+    <property name="ide">idea</property>
+    <property name="ideVersion">2020.3.0.0</property>
+    <property name="modified">2020-11-21T00:08:27</property>
     <property name="originalScheme">One dark</property>
   </metaInfo>
   <colors>
@@ -590,19 +590,19 @@
     </option>
     <option name="DEFAULT_DOC_COMMENT_TAG">
       <value>
-        <option name="FOREGROUND" value="cd74e8" />
+        <option name="FOREGROUND" value="c679dd" />
         <option name="FONT_TYPE" value="3" />
         <option name="EFFECT_TYPE" value="1" />
       </value>
     </option>
     <option name="DEFAULT_DOC_COMMENT_TAG_VALUE">
       <value>
-        <option name="FOREGROUND" value="cd74e8" />
+        <option name="FOREGROUND" value="c679dd" />
       </value>
     </option>
     <option name="DEFAULT_DOC_MARKUP">
       <value>
-        <option name="FOREGROUND" value="cd74e8" />
+        <option name="FOREGROUND" value="c679dd" />
       </value>
     </option>
     <option name="DEFAULT_FUNCTION_DECLARATION">
@@ -620,14 +620,30 @@
         <option name="FOREGROUND" value="abb2bf" />
       </value>
     </option>
+    <option name="DEFAULT_INSTANCE_FIELD">
+      <value>
+        <option name="FOREGROUND" value="abb2bf" />
+      </value>
+    </option>
+    <option name="DEFAULT_KEYWORD">
+      <value>
+        <option name="FOREGROUND" value="c679dd" />
+      </value>
+    </option>
     <option name="DEFAULT_NUMBER">
       <value>
-        <option name="FOREGROUND" value="db9d63" />
+        <option name="FOREGROUND" value="c679dd" />
       </value>
     </option>
     <option name="DEFAULT_SEMICOLON">
       <value>
         <option name="FOREGROUND" value="abb2bf" />
+      </value>
+    </option>
+    <option name="DEFAULT_STATIC_FIELD">
+      <value>
+        <option name="FOREGROUND" value="abb2bf" />
+        <option name="FONT_TYPE" value="2" />
       </value>
     </option>
     <option name="DEFAULT_STRING">
@@ -868,6 +884,9 @@
       <value>
         <option name="FOREGROUND" value="98c379" />
       </value>
+    </option>
+    <option name="HTML_CODE">
+      <value />
     </option>
     <option name="HTML_COMMENT">
       <value>
@@ -1153,6 +1172,9 @@
         <option name="FOREGROUND" value="98c476" />
       </value>
     </option>
+    <option name="KOTLIN_LABEL">
+      <value />
+    </option>
     <option name="LABEL">
       <value>
         <option name="FOREGROUND" value="c679dd" />
@@ -1227,7 +1249,8 @@
     </option>
     <option name="MATCHED_BRACE_ATTRIBUTES">
       <value>
-        <option name="BACKGROUND" value="3a6da0" />
+        <option name="BACKGROUND" value="3b514d" />
+        <option name="FONT_TYPE" value="1" />
       </value>
     </option>
     <option name="MESSAGE_ARGUMENT">
