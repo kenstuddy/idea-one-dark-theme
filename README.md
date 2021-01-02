@@ -54,7 +54,7 @@ color themes.
 - [x] XML
 - [x] PHP
 - [x] Java
-- [ ] Kotlin
+- [x] Kotlin
 - [ ] Go
 - [ ] C#
 - [ ] Ruby
